@@ -1,8 +1,8 @@
 # ZK-SNARK proof verification in Plutus
 
-A Plutus implementation of the Groth16 ZKP-verification algorithm.
+_A Plutus implementation of the Groth16 ZKP-verification algorithm._
 
-Tested a zk-SNARK using a basic implementation of Miller's algorithm and the _toy_ elliptic curve BLS6_6.
+Implemented and tested a zk-SNARK using a basic implementation of Miller's algorithm and the _toy_ elliptic curve BLS6_6.
 
 ## Testing instructions
 
